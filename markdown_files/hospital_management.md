@@ -1,4 +1,4 @@
-# Hospital Management System
+# Hospital Management System by Phạm Lê Ngọc Sơn
 
 [Download Source Code for Hospital Management System](hospital_management.sql)
 

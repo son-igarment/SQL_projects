@@ -1,3 +1,3 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: SQL Project Source Code
-description: Get source code for popular SQL projects for beginners, intermediate, and advance. The SQL queries are written for PostreSQL database.
+title: SQL Projects by Phạm Lê Ngọc Sơn
+description: A collection of database design projects and SQL implementations by Phạm Lê Ngọc Sơn. Includes designs for various systems like hospital management, railway systems, and library management. All SQL queries are written for PostgreSQL database.

@@ -1,4 +1,4 @@
-# Student Database Management
+# Student Management System by Phạm Lê Ngọc Sơn
 
 [Download Source Code for Student Database Management](student_management.sql)
 

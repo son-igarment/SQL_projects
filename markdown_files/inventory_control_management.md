@@ -1,4 +1,4 @@
-# Inventory Control Management
+# Inventory Control Management by Phạm Lê Ngọc Sơn
 
 [Download Source Code for Inventory Control Management](inventory_control_management.sql)
 

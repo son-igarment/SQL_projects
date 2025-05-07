@@ -1,4 +1,4 @@
-# Library Management
+# Library Management System by Phạm Lê Ngọc Sơn
 
 [Download Source Code for Library Management](/library_management.sql)
 

@@ -1,4 +1,4 @@
-# Online Retail Application Management
+# Online Retail Application by Phạm Lê Ngọc Sơn
 
 [Download Source Code for Online Retail Application Management](online_retail_app.sql)
 

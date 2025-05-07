@@ -1,4 +1,4 @@
-# Cooking Recipe Database
+# Cooking Recipe Database by Phạm Lê Ngọc Sơn
 
 [Download Source Code for Cooking Recipe Database](cooking_recipe.sql)
 
